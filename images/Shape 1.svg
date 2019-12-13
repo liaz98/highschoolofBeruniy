@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 895 270" width="895" height="270">
+	<defs>
+		<filter id="flt1"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.824   0 0 0 0 0.788   0 0 0 0 0.533   0 0 0 1 0" /> </filter>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { filter: url(#flt1);fill: none;stroke: #ffffff;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width: 6 } 
+	</style>
+	<path id="Shape 1" class="shp0" d="M3.02,240.39v25.61h888.97v-262h-888.97v24.62" />
+</svg>
